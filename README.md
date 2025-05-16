@@ -38,22 +38,22 @@ This project automates water tank filling and detects leakage using an ESP32 mic
 ## 📸 Setup Images
 
 ### 🛠️ Full setup including ESP32, sensors, relay, and motor
-![Setup](./images/Set_up.png)
+![Setup](./Set_up.png)
 
 ### 📍 Sensor placement inside the water tank
-![Sensor](./images/Sensor.png)
+![Sensor](./Sensor.png)
 
 ### ⚡ Power supply connected to the system
-![Power Supply](./images/power_supply.png)
+![Power Supply](./power_supply.png)
 
 ### 🔌 ESP32 with relay module and buzzer wiring
-![Control Board](./images/Control_board.png)
+![Control Board](./Control_board.png)
 
 ### 💧 Water flow during motor operation
-![Automatic Tank Refilling](./images/automatic_tank_refilling.png)
+![Automatic Tank Refilling](./automatic_tank_refilling.png)
 
 ### 🚨 Leakage detection triggered (buzzer ON)
-![Leakage Detection](./images/Leakage_detection.png)
+![Leakage Detection](./Leakage_detection.png)
 
 ---
 
